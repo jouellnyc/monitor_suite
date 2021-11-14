@@ -7,6 +7,16 @@ and
 <br>
 https://www.linuxjournal.com/article/8269 - 2005!
 
+### Screen Shots 
+Webadmin Dashboard
+<BR>
+![Webadmin Dashboard](web_admin.jpg?raw=true "Webadmin Dashboard")
+<BR>
+ServerStats Dashboard
+<BR>
+![ServerStats Dashboad](sys_admin.jpg?raw=true "Webadmin Dashboard")
+
+  
 ### Prerequisites
 Bash/Linux
 Install wget.
@@ -77,14 +87,6 @@ http://yourwebserver/xxxmon/xxxmon.html
 
 I.E http://yourwebserver/webmon/webmon.html
 
-### Screen Shots 
-Webadmin Dashboard
-<BR>
-![Webadmin Dashboard](web_admin.jpg?raw=true "Webadmin Dashboard")
-<BR>
-ServerStats Dashboard
-<BR>
-![ServerStats Dashboad](sys_admin.jpg?raw=true "Webadmin Dashboard")
 
 ## Author
 [https://github.com/jouellnyc](mailto:jouellnyc@gmail.com)
