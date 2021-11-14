@@ -75,7 +75,7 @@ Set HOSTCHECK as the Defined host to check for DNS queries.
 
 
 ### Usage
-  
+```
 To Complete installation set up each script to run in cron for the user monitorsuite every 5 minutes.
 crontab -e -u monitorsuite 
 
@@ -87,7 +87,7 @@ Monitor Suite DashBoard for each service (dns,smtp,web) will be available at:
 http://yourwebserver/xxxmon/xxxmon.html
 
 I.E http://yourwebserver/webmon/webmon.html
-
+```
 
 ## Author
 [https://github.com/jouellnyc](mailto:jouellnyc@gmail.com)
